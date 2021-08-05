@@ -1,4 +1,4 @@
-# generalized-idopNetwork
+# DRDNet (Disease risk-associated pseudo-dynamic networks)
 A statistical framework for recovering dynamic networks from static data with applications to tissue-specific gene network reconstruction from GTEx data
 
 # simulations
